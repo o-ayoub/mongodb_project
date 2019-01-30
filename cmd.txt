@@ -1,0 +1,30 @@
+---------------------- 
+  EMBEDED DOCS MODEL |
+----------------------
+# import embeded
+mongoimport --db students-grades-classes  --collection embeded --file embeded.json --jsonArray
+
+export embeded
+mongoexport --db students-grades-classes  --collection embeded --out out/embeded.json
+
+
+--------------------
+  REFERENCES MODEL |
+--------------------
+# import students collection into students-grades-classes
+mongoimport --db students-grades-classes  --collection students --file students.json --jsonArray
+
+# import classes
+mongoimport --db students-grades-classes  --collection classes --file classes.json --jsonArray
+
+# import grades
+mongoimport --db students-grades-classes  --collection grades --file grades.json --jsonArray
+
+# export students collection to out folder
+mongoexport --db students-grades-classes  --collection students --out out/students.json
+
+# export classes
+mongoexport --db students-grades-classes  --collection classes --out out/classes.json
+
+# export grades
+mongoexport --db students-grades-classes  --collection grades --out out/grades.json

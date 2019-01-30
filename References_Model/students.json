@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Daniel Atlas",
+    "studentID": 101,
+    "major": "M1",
+    "address": "Hostel 2",
+    "phone": "+00123456789",
+    "email": "daniel@email.com"
+  },
+  {
+    "name": "OUARKA Ayoub",
+    "studentID": 102,
+    "major": "M1",
+    "address": "Hostel 2",
+    "phone": "+212666561940",
+    "email": "ouarka.ayoub@gmail.com"
+  },
+  {
+    "name": "Harry Potter",
+    "studentID": 103,
+    "major": "M1",
+    "address": "Hostel 1",
+    "phone": "+00123456789",
+    "email": "harry@email.com"
+  },
+  {
+    "name": "Jane Doe",
+    "studentID": 104,
+    "major": "M1",
+    "address": "Castle",
+    "phone": "+00123456789",
+    "email": "jane@email.com"
+  },
+  {
+    "name": "Tomas Doe",
+    "studentID": 105,
+    "major": "M1",
+    "address": "Castle",
+    "phone": "+00123456789",
+    "email": "tomas@email.com"
+  }
+]

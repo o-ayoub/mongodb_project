@@ -1,0 +1,82 @@
+[
+  {
+    "c_signature": "C1",
+    "studentID": 101,
+    "grade": "A",
+    "date": {
+      "$date": "2018-10-12T00:00:00.000Z"
+    }
+  },
+  {
+    "c_signature": "C2",
+    "studentID": 101,
+    "grade": "B",
+    "date": {
+      "$date": "2017-06-25T00:00:00.000Z"
+    }
+  },
+  {
+    "c_signature": "C3",
+    "studentID": 101,
+    "grade": "C",
+    "date": {
+      "$date": "2017-05-01T00:00:00.000Z"
+    }
+  },
+  {
+    "c_signature": "C4",
+    "studentID": 102,
+    "grade": "D",
+    "date": {
+      "$date": "2018-06-01T00:00:00.000Z"
+    }
+  },
+  {
+    "c_signature": "C5",
+    "studentID": 103,
+    "grade": "A",
+    "date": {
+      "$date": "2019-01-20T00:00:00.000Z"
+    }
+  },
+  {
+    "c_signature": "C1",
+    "studentID": 104,
+    "grade": "B",
+    "date": {
+      "$date": "2017-06-03T00:00:00.000Z"
+    }
+  },
+  {
+    "c_signature": "C3",
+    "studentID": 103,
+    "grade": "C",
+    "date": {
+      "$date": "2015-06-25T00:00:00.000Z"
+    }
+  },
+  {
+    "c_signature": "C4",
+    "studentID": 104,
+    "grade": "D",
+    "date": {
+      "$date": "2014-03-25T00:00:00.000Z"
+    }
+  },
+  {
+    "c_signature": "C4",
+    "studentID": 101,
+    "grade": "A",
+    "date": {
+      "$date": "2013-03-07T00:00:00.000Z"
+    }
+  },
+  {
+    "c_signature": "C5",
+    "studentID": 105,
+    "grade": "B",
+    "date": {
+      "$date": "2016-06-12T00:00:00.000Z"
+    }
+  }
+]

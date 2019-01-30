@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Class 1",
+    "signatuer": "C1",
+    "lecturer": "L1"
+  },
+  {
+    "name": "Class 2",
+    "signatuer": "C2",
+    "lecturer": "L1"
+  },
+  {
+    "name": "Class 3",
+    "signatuer": "C3",
+    "lecturer": "L2"
+  },
+  {
+    "name": "Class 4",
+    "signatuer": "C4",
+    "lecturer": "L4"
+  },
+  {
+    "name": "Class 5",
+    "signatuer": "C5",
+    "lecturer": "L3"
+  }
+]

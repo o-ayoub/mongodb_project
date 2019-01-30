@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5c4c48cba987c7136edeb160"},"name":"Class 2","signatuer":"C2","lecturer":"L1"}
+{"_id":{"$oid":"5c4c48cba987c7136edeb161"},"name":"Class 3","signatuer":"C3","lecturer":"L2"}
+{"_id":{"$oid":"5c4c48cba987c7136edeb162"},"name":"Class 4","signatuer":"C4","lecturer":"L4"}
+{"_id":{"$oid":"5c4c48cba987c7136edeb163"},"name":"Class 5","signatuer":"C5","lecturer":"L3"}
+{"_id":{"$oid":"5c4c48cba987c7136edeb164"},"name":"Class 1","signatuer":"C1","lecturer":"L1"}

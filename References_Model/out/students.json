@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5c4c48b8a987c7136edeb15b"},"name":"OUARKA Ayoub","studentID":102,"major":"M1","address":"Hostel 2","phone":"+212666561940","email":"ouarka.ayoub@gmail.com"}
+{"_id":{"$oid":"5c4c48b8a987c7136edeb15c"},"name":"Harry Potter","studentID":103,"major":"M1","address":"Hostel 1","phone":"+00123456789","email":"harry@email.com"}
+{"_id":{"$oid":"5c4c48b8a987c7136edeb15d"},"name":"Jane Doe","studentID":104,"major":"M1","address":"Castle","phone":"+00123456789","email":"jane@email.com"}
+{"_id":{"$oid":"5c4c48b8a987c7136edeb15e"},"name":"Tomas Doe","studentID":105,"major":"M1","address":"Castle","phone":"+00123456789","email":"tomas@email.com"}
+{"_id":{"$oid":"5c4c48b8a987c7136edeb15f"},"name":"Daniel Atlas","studentID":101,"major":"M1","address":"Hostel 2","phone":"+00123456789","email":"daniel@email.com"}
